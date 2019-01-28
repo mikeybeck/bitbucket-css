@@ -39,3 +39,6 @@ li.detail-summary--item {
 .diff-container {
     max-width: 70%;
 }
+.udiff-line pre.source::first-letter {
+    visibility: hidden;
+}

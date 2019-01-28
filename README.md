@@ -9,3 +9,4 @@ This is my effort so far.  It's pretty ugly at the moment but I'm working on it!
  - Stickies the current file header to the top of the page also
  - Stickies the file list to the right hand side
  - Moves the build status to the main header
+ - Removes the + and - from the start of each changed line (you can now copy and paste code without having to manually remove them!)
